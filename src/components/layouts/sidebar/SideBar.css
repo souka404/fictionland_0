@@ -1,0 +1,8 @@
+.sidebar{
+  background-color: brown;
+  width: 245px;
+  height: 100vh;
+  z-index: 99;
+  position: absolute;
+  display: none;
+}

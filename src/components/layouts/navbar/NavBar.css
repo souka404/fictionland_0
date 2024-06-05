@@ -1,0 +1,37 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background-color: brown;
+}
+.navbar > .menu img{
+  width: 37px;
+}
+.search-bar{
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.search-bar input{
+  width: 200px;
+  height: 30px;
+  border-radius: 50px;
+  border: none;
+  text-align: center;
+  font-size: 17px;
+  /* position: ; */
+}
+.search-bar img{
+  width: 20px;
+  position: absolute;
+  left: 10px;
+}
+.logo img{
+  width: 50px;
+  border-radius: 50%;
+}
+.img{
+  width: 50px;
+  border-radius: 10%;
+}
